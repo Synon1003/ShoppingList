@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/ShoppingList.AppHost/" />
+  <Project Path="ShoppingList.AppHost/ShoppingList.AppHost.csproj" />
+  <Project Path="ShoppingList.Core/ShoppingList.Core.csproj" />
+  <Project Path="ShoppingList.Infrastructure/ShoppingList.Infrastructure.csproj" />
+  <Project Path="ShoppingList.Service/ShoppingList.Service.csproj" />
+  <Project Path="ShoppingList.ServiceBomber/ShoppingList.ServiceBomber.csproj" />
+  <Project Path="ShoppingList.ServiceDefaults/ShoppingList.ServiceDefaults.csproj" />
+  <Project Path="ShoppingList.ServiceProxy/ShoppingList.ServiceProxy.csproj" />
+</Solution>
